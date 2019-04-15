@@ -1,1 +1,1 @@
-# to-do-list-js
+# To do list CRUD application with fake json-server
